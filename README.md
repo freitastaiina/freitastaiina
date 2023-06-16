@@ -36,7 +36,7 @@
 
 ## **Contato**
 <p align="left">
- <a href="https:m ailto:freitastaiina@gmail.com">
+ <a href="https:mailto:freitastaiina@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
   <a href="https://wa.me/5553991526342" alt="WhatsApp">
