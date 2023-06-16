@@ -5,7 +5,7 @@
 ### Me chamo Tainá Freitas 😊
 
 - 🎓 Sou acadêmica do Curso em Análise e Desenvolvimento pela Uniasselvi e faço cursos livres direcionados à essa área.
--  Estou estudando tecnologias ligadas à Front-end e à procura de colocação no mercado de trabalho na área de TI e, dessa forma, aberta à estágios e outras oportunidades que possam somar à meu aprendizado e auxiliar na construção da minha carreira.
+-  Estou estudando tecnologias ligadas à desenvolvimento web e à procura de colocação no mercado de trabalho na área de TI. Dessaforma, estou aberta à estágios e outras oportunidades que possam somar à meu aprendizado e auxiliar na construção da minha carreira.
 
 <br/>
 
